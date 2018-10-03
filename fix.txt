@@ -1,1 +1,2 @@
 Add a line in fix.txt
+Add a line in new_fix branch
